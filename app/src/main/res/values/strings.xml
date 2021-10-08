@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="alpha2">Alpha2</string>
+    <string name="no_data_found">No data found</string>
+    <string name="region">Region</string>
+    <string name="capital">Capital</string>
+    <string name="alpha3">Alpha3</string>
+    <string name="name_za">Name ZA</string>
+    <string name="name_az">Name AZ</string>
+</resources>
